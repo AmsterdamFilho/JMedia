@@ -1,0 +1,10 @@
+# IntelliJ files
+*.iml
+.idea
+
+# Local and temporary files
+*~*
+.DS_Store
+
+# Compiled files
+*/target
